@@ -1,0 +1,13 @@
+// Here are some of the topics that are covered in the first semester of B.Tech CSE: //
+
+Introduction to computers and programming
+Basics of C programming
+Data types and operators
+Control statements
+Functions
+Arrays
+Strings
+Structures
+Pointers
+File handling
+Input/output
